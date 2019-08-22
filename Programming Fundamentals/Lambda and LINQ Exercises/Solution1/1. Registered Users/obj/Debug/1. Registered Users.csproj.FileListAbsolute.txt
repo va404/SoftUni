@@ -1,0 +1,6 @@
+E:\Softuni\Programming Fundamentals Extended Grp\Lambda and LINQ Exercises\Solution1\1. Registered Users\bin\Debug\_1.Registered_Users.exe.config
+E:\Softuni\Programming Fundamentals Extended Grp\Lambda and LINQ Exercises\Solution1\1. Registered Users\bin\Debug\_1.Registered_Users.exe
+E:\Softuni\Programming Fundamentals Extended Grp\Lambda and LINQ Exercises\Solution1\1. Registered Users\bin\Debug\_1.Registered_Users.pdb
+E:\Softuni\Programming Fundamentals Extended Grp\Lambda and LINQ Exercises\Solution1\1. Registered Users\obj\Debug\1. Registered Users.csprojResolveAssemblyReference.cache
+E:\Softuni\Programming Fundamentals Extended Grp\Lambda and LINQ Exercises\Solution1\1. Registered Users\obj\Debug\_1.Registered_Users.exe
+E:\Softuni\Programming Fundamentals Extended Grp\Lambda and LINQ Exercises\Solution1\1. Registered Users\obj\Debug\_1.Registered_Users.pdb

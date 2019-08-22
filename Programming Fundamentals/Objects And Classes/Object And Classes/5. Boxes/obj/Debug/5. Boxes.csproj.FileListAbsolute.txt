@@ -1,0 +1,6 @@
+C:\Files\Softuni\Programming Fundamentals Extended Grp\Objects And Classes\Object And Classes\5. Boxes\bin\Debug\_5.Boxes.exe.config
+C:\Files\Softuni\Programming Fundamentals Extended Grp\Objects And Classes\Object And Classes\5. Boxes\bin\Debug\_5.Boxes.exe
+C:\Files\Softuni\Programming Fundamentals Extended Grp\Objects And Classes\Object And Classes\5. Boxes\bin\Debug\_5.Boxes.pdb
+C:\Files\Softuni\Programming Fundamentals Extended Grp\Objects And Classes\Object And Classes\5. Boxes\obj\Debug\5. Boxes.csprojResolveAssemblyReference.cache
+C:\Files\Softuni\Programming Fundamentals Extended Grp\Objects And Classes\Object And Classes\5. Boxes\obj\Debug\_5.Boxes.exe
+C:\Files\Softuni\Programming Fundamentals Extended Grp\Objects And Classes\Object And Classes\5. Boxes\obj\Debug\_5.Boxes.pdb

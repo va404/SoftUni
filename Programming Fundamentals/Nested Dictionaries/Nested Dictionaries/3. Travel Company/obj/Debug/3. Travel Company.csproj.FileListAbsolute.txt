@@ -1,0 +1,6 @@
+E:\Softuni\Programming Fundamentals Extended Grp\Nested Dictionaries\Nested Dictionaries\3. Travel Company\bin\Debug\_3.Travel_Company.exe.config
+E:\Softuni\Programming Fundamentals Extended Grp\Nested Dictionaries\Nested Dictionaries\3. Travel Company\bin\Debug\_3.Travel_Company.exe
+E:\Softuni\Programming Fundamentals Extended Grp\Nested Dictionaries\Nested Dictionaries\3. Travel Company\bin\Debug\_3.Travel_Company.pdb
+E:\Softuni\Programming Fundamentals Extended Grp\Nested Dictionaries\Nested Dictionaries\3. Travel Company\obj\Debug\3. Travel Company.csprojResolveAssemblyReference.cache
+E:\Softuni\Programming Fundamentals Extended Grp\Nested Dictionaries\Nested Dictionaries\3. Travel Company\obj\Debug\_3.Travel_Company.exe
+E:\Softuni\Programming Fundamentals Extended Grp\Nested Dictionaries\Nested Dictionaries\3. Travel Company\obj\Debug\_3.Travel_Company.pdb

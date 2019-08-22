@@ -1,0 +1,5 @@
+E:\Softuni\Programming Fundamentals Extended Grp\Arrays More Exercises\Solution1\3. Smallest Element in Array\bin\Debug\_3.Smallest_Element_in_Array.exe.config
+E:\Softuni\Programming Fundamentals Extended Grp\Arrays More Exercises\Solution1\3. Smallest Element in Array\bin\Debug\_3.Smallest_Element_in_Array.exe
+E:\Softuni\Programming Fundamentals Extended Grp\Arrays More Exercises\Solution1\3. Smallest Element in Array\bin\Debug\_3.Smallest_Element_in_Array.pdb
+E:\Softuni\Programming Fundamentals Extended Grp\Arrays More Exercises\Solution1\3. Smallest Element in Array\obj\Debug\_3.Smallest_Element_in_Array.exe
+E:\Softuni\Programming Fundamentals Extended Grp\Arrays More Exercises\Solution1\3. Smallest Element in Array\obj\Debug\_3.Smallest_Element_in_Array.pdb

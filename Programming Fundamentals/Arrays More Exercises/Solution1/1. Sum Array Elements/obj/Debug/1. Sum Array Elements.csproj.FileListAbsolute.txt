@@ -1,0 +1,6 @@
+E:\Softuni\Programming Fundamentals Extended Grp\Arrays More Exercises\Solution1\1. Sum Array Elements\bin\Debug\_1.Sum_Array_Elements.exe.config
+E:\Softuni\Programming Fundamentals Extended Grp\Arrays More Exercises\Solution1\1. Sum Array Elements\bin\Debug\_1.Sum_Array_Elements.exe
+E:\Softuni\Programming Fundamentals Extended Grp\Arrays More Exercises\Solution1\1. Sum Array Elements\bin\Debug\_1.Sum_Array_Elements.pdb
+E:\Softuni\Programming Fundamentals Extended Grp\Arrays More Exercises\Solution1\1. Sum Array Elements\obj\Debug\1. Sum Array Elements.csprojResolveAssemblyReference.cache
+E:\Softuni\Programming Fundamentals Extended Grp\Arrays More Exercises\Solution1\1. Sum Array Elements\obj\Debug\_1.Sum_Array_Elements.exe
+E:\Softuni\Programming Fundamentals Extended Grp\Arrays More Exercises\Solution1\1. Sum Array Elements\obj\Debug\_1.Sum_Array_Elements.pdb

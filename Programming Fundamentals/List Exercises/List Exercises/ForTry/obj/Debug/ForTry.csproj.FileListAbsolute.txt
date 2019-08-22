@@ -1,0 +1,6 @@
+E:\Softuni\Programming Fundamentals Extended Grp\List Exercises\List Exercises\ForTry\bin\Debug\ForTry.exe.config
+E:\Softuni\Programming Fundamentals Extended Grp\List Exercises\List Exercises\ForTry\bin\Debug\ForTry.exe
+E:\Softuni\Programming Fundamentals Extended Grp\List Exercises\List Exercises\ForTry\bin\Debug\ForTry.pdb
+E:\Softuni\Programming Fundamentals Extended Grp\List Exercises\List Exercises\ForTry\obj\Debug\ForTry.csprojResolveAssemblyReference.cache
+E:\Softuni\Programming Fundamentals Extended Grp\List Exercises\List Exercises\ForTry\obj\Debug\ForTry.exe
+E:\Softuni\Programming Fundamentals Extended Grp\List Exercises\List Exercises\ForTry\obj\Debug\ForTry.pdb

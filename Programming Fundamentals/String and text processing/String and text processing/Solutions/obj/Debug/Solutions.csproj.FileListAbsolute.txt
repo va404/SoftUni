@@ -1,0 +1,7 @@
+C:\Files\Softuni\Programming Fundamentals Extended Grp\String and text processing\String and text processing\Solutions\bin\Debug\Solutions.exe.config
+C:\Files\Softuni\Programming Fundamentals Extended Grp\String and text processing\String and text processing\Solutions\bin\Debug\Solutions.exe
+C:\Files\Softuni\Programming Fundamentals Extended Grp\String and text processing\String and text processing\Solutions\bin\Debug\Solutions.pdb
+C:\Files\Softuni\Programming Fundamentals Extended Grp\String and text processing\String and text processing\Solutions\obj\Debug\Solutions.csprojResolveAssemblyReference.cache
+C:\Files\Softuni\Programming Fundamentals Extended Grp\String and text processing\String and text processing\Solutions\obj\Debug\Solutions.csproj.CoreCompileInputs.cache
+C:\Files\Softuni\Programming Fundamentals Extended Grp\String and text processing\String and text processing\Solutions\obj\Debug\Solutions.exe
+C:\Files\Softuni\Programming Fundamentals Extended Grp\String and text processing\String and text processing\Solutions\obj\Debug\Solutions.pdb

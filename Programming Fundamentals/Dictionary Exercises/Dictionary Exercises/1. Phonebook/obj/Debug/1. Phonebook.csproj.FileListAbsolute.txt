@@ -1,0 +1,6 @@
+E:\Softuni\Programming Fundamentals\8.Dictionary Exercises\Dictionary Exercises\1. Phonebook\bin\Debug\_1.Phonebook.exe.config
+E:\Softuni\Programming Fundamentals\8.Dictionary Exercises\Dictionary Exercises\1. Phonebook\bin\Debug\_1.Phonebook.exe
+E:\Softuni\Programming Fundamentals\8.Dictionary Exercises\Dictionary Exercises\1. Phonebook\bin\Debug\_1.Phonebook.pdb
+E:\Softuni\Programming Fundamentals\8.Dictionary Exercises\Dictionary Exercises\1. Phonebook\obj\Debug\1. Phonebook.csprojResolveAssemblyReference.cache
+E:\Softuni\Programming Fundamentals\8.Dictionary Exercises\Dictionary Exercises\1. Phonebook\obj\Debug\_1.Phonebook.exe
+E:\Softuni\Programming Fundamentals\8.Dictionary Exercises\Dictionary Exercises\1. Phonebook\obj\Debug\_1.Phonebook.pdb

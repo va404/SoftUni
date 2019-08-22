@@ -1,0 +1,6 @@
+E:\Softuni\Programming Fundamentals\8.Dictionary Exercises\Dictionary Exercises\5. User Logins\bin\Debug\_5.User_Logins.exe.config
+E:\Softuni\Programming Fundamentals\8.Dictionary Exercises\Dictionary Exercises\5. User Logins\bin\Debug\_5.User_Logins.exe
+E:\Softuni\Programming Fundamentals\8.Dictionary Exercises\Dictionary Exercises\5. User Logins\bin\Debug\_5.User_Logins.pdb
+E:\Softuni\Programming Fundamentals\8.Dictionary Exercises\Dictionary Exercises\5. User Logins\obj\Debug\5. User Logins.csprojResolveAssemblyReference.cache
+E:\Softuni\Programming Fundamentals\8.Dictionary Exercises\Dictionary Exercises\5. User Logins\obj\Debug\_5.User_Logins.exe
+E:\Softuni\Programming Fundamentals\8.Dictionary Exercises\Dictionary Exercises\5. User Logins\obj\Debug\_5.User_Logins.pdb

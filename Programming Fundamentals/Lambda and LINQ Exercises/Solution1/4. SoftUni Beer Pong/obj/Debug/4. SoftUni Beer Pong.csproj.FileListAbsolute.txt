@@ -1,0 +1,6 @@
+E:\Softuni\Programming Fundamentals Extended Grp\Lambda and LINQ Exercises\Solution1\4. SoftUni Beer Pong\bin\Debug\_4.SoftUni_Beer_Pong.exe.config
+E:\Softuni\Programming Fundamentals Extended Grp\Lambda and LINQ Exercises\Solution1\4. SoftUni Beer Pong\bin\Debug\_4.SoftUni_Beer_Pong.exe
+E:\Softuni\Programming Fundamentals Extended Grp\Lambda and LINQ Exercises\Solution1\4. SoftUni Beer Pong\bin\Debug\_4.SoftUni_Beer_Pong.pdb
+E:\Softuni\Programming Fundamentals Extended Grp\Lambda and LINQ Exercises\Solution1\4. SoftUni Beer Pong\obj\Debug\4. SoftUni Beer Pong.csprojResolveAssemblyReference.cache
+E:\Softuni\Programming Fundamentals Extended Grp\Lambda and LINQ Exercises\Solution1\4. SoftUni Beer Pong\obj\Debug\_4.SoftUni_Beer_Pong.exe
+E:\Softuni\Programming Fundamentals Extended Grp\Lambda and LINQ Exercises\Solution1\4. SoftUni Beer Pong\obj\Debug\_4.SoftUni_Beer_Pong.pdb

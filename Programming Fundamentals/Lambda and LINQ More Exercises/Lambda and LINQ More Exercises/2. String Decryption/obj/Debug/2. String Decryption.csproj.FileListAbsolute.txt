@@ -1,0 +1,5 @@
+E:\Softuni\Programming Fundamentals Extended Grp\Lambda and LINQ More Exercises\Lambda and LINQ More Exercises\2. String Decryption\bin\Debug\_2.String_Decryption.exe.config
+E:\Softuni\Programming Fundamentals Extended Grp\Lambda and LINQ More Exercises\Lambda and LINQ More Exercises\2. String Decryption\bin\Debug\_2.String_Decryption.exe
+E:\Softuni\Programming Fundamentals Extended Grp\Lambda and LINQ More Exercises\Lambda and LINQ More Exercises\2. String Decryption\bin\Debug\_2.String_Decryption.pdb
+E:\Softuni\Programming Fundamentals Extended Grp\Lambda and LINQ More Exercises\Lambda and LINQ More Exercises\2. String Decryption\obj\Debug\_2.String_Decryption.exe
+E:\Softuni\Programming Fundamentals Extended Grp\Lambda and LINQ More Exercises\Lambda and LINQ More Exercises\2. String Decryption\obj\Debug\_2.String_Decryption.pdb

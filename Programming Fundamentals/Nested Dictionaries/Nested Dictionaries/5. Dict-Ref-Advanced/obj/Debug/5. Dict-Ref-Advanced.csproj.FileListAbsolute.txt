@@ -1,0 +1,6 @@
+E:\Softuni\Programming Fundamentals Extended Grp\Nested Dictionaries\Nested Dictionaries\5. Dict-Ref-Advanced\bin\Debug\_5.Dict_Ref_Advanced.exe.config
+E:\Softuni\Programming Fundamentals Extended Grp\Nested Dictionaries\Nested Dictionaries\5. Dict-Ref-Advanced\bin\Debug\_5.Dict_Ref_Advanced.exe
+E:\Softuni\Programming Fundamentals Extended Grp\Nested Dictionaries\Nested Dictionaries\5. Dict-Ref-Advanced\bin\Debug\_5.Dict_Ref_Advanced.pdb
+E:\Softuni\Programming Fundamentals Extended Grp\Nested Dictionaries\Nested Dictionaries\5. Dict-Ref-Advanced\obj\Debug\5. Dict-Ref-Advanced.csprojResolveAssemblyReference.cache
+E:\Softuni\Programming Fundamentals Extended Grp\Nested Dictionaries\Nested Dictionaries\5. Dict-Ref-Advanced\obj\Debug\_5.Dict_Ref_Advanced.exe
+E:\Softuni\Programming Fundamentals Extended Grp\Nested Dictionaries\Nested Dictionaries\5. Dict-Ref-Advanced\obj\Debug\_5.Dict_Ref_Advanced.pdb

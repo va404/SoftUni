@@ -1,0 +1,6 @@
+E:\Softuni\Programming Fundamentals Extended Grp\Lambda and LINQ More Exercises\Lambda and LINQ More Exercises\3. Camping\bin\Debug\_3.Camping.exe.config
+E:\Softuni\Programming Fundamentals Extended Grp\Lambda and LINQ More Exercises\Lambda and LINQ More Exercises\3. Camping\bin\Debug\_3.Camping.exe
+E:\Softuni\Programming Fundamentals Extended Grp\Lambda and LINQ More Exercises\Lambda and LINQ More Exercises\3. Camping\bin\Debug\_3.Camping.pdb
+E:\Softuni\Programming Fundamentals Extended Grp\Lambda and LINQ More Exercises\Lambda and LINQ More Exercises\3. Camping\obj\Debug\3. Camping.csprojResolveAssemblyReference.cache
+E:\Softuni\Programming Fundamentals Extended Grp\Lambda and LINQ More Exercises\Lambda and LINQ More Exercises\3. Camping\obj\Debug\_3.Camping.exe
+E:\Softuni\Programming Fundamentals Extended Grp\Lambda and LINQ More Exercises\Lambda and LINQ More Exercises\3. Camping\obj\Debug\_3.Camping.pdb

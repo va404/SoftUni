@@ -1,0 +1,5 @@
+E:\Softuni\Programming Fundamentals Extended Grp\Arrays More Exercises\Solution1\4. Rotate Array of Strings\bin\Debug\_4.Rotate_Array_of_Strings.exe.config
+E:\Softuni\Programming Fundamentals Extended Grp\Arrays More Exercises\Solution1\4. Rotate Array of Strings\bin\Debug\_4.Rotate_Array_of_Strings.exe
+E:\Softuni\Programming Fundamentals Extended Grp\Arrays More Exercises\Solution1\4. Rotate Array of Strings\bin\Debug\_4.Rotate_Array_of_Strings.pdb
+E:\Softuni\Programming Fundamentals Extended Grp\Arrays More Exercises\Solution1\4. Rotate Array of Strings\obj\Debug\_4.Rotate_Array_of_Strings.exe
+E:\Softuni\Programming Fundamentals Extended Grp\Arrays More Exercises\Solution1\4. Rotate Array of Strings\obj\Debug\_4.Rotate_Array_of_Strings.pdb

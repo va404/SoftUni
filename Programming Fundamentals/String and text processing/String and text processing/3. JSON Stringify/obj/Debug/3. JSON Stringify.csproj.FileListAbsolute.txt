@@ -1,0 +1,6 @@
+C:\Files\Softuni\Programming Fundamentals Extended Grp\String and text processing\String and text processing\3. JSON Stringify\bin\Debug\_3.JSON_Stringify.exe.config
+C:\Files\Softuni\Programming Fundamentals Extended Grp\String and text processing\String and text processing\3. JSON Stringify\bin\Debug\_3.JSON_Stringify.exe
+C:\Files\Softuni\Programming Fundamentals Extended Grp\String and text processing\String and text processing\3. JSON Stringify\bin\Debug\_3.JSON_Stringify.pdb
+C:\Files\Softuni\Programming Fundamentals Extended Grp\String and text processing\String and text processing\3. JSON Stringify\obj\Debug\3. JSON Stringify.csprojResolveAssemblyReference.cache
+C:\Files\Softuni\Programming Fundamentals Extended Grp\String and text processing\String and text processing\3. JSON Stringify\obj\Debug\_3.JSON_Stringify.exe
+C:\Files\Softuni\Programming Fundamentals Extended Grp\String and text processing\String and text processing\3. JSON Stringify\obj\Debug\_3.JSON_Stringify.pdb

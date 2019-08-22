@@ -1,0 +1,6 @@
+E:\Softuni\Programming Fundamentals\8.Dictionary Exercises\Dictionary Exercises\3. Mixed Phones\bin\Debug\_3.Mixed_Phones.exe.config
+E:\Softuni\Programming Fundamentals\8.Dictionary Exercises\Dictionary Exercises\3. Mixed Phones\bin\Debug\_3.Mixed_Phones.exe
+E:\Softuni\Programming Fundamentals\8.Dictionary Exercises\Dictionary Exercises\3. Mixed Phones\bin\Debug\_3.Mixed_Phones.pdb
+E:\Softuni\Programming Fundamentals\8.Dictionary Exercises\Dictionary Exercises\3. Mixed Phones\obj\Debug\3. Mixed Phones.csprojResolveAssemblyReference.cache
+E:\Softuni\Programming Fundamentals\8.Dictionary Exercises\Dictionary Exercises\3. Mixed Phones\obj\Debug\_3.Mixed_Phones.exe
+E:\Softuni\Programming Fundamentals\8.Dictionary Exercises\Dictionary Exercises\3. Mixed Phones\obj\Debug\_3.Mixed_Phones.pdb

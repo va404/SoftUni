@@ -1,0 +1,6 @@
+E:\Softuni\Programming Fundamentals Extended Grp\Arrays And Lists Algorithms More Exercises\ArraysAndListsAlgorithmME\4. Japanese Roulette\bin\Debug\_4.Japanese_Roulette.exe.config
+E:\Softuni\Programming Fundamentals Extended Grp\Arrays And Lists Algorithms More Exercises\ArraysAndListsAlgorithmME\4. Japanese Roulette\bin\Debug\_4.Japanese_Roulette.exe
+E:\Softuni\Programming Fundamentals Extended Grp\Arrays And Lists Algorithms More Exercises\ArraysAndListsAlgorithmME\4. Japanese Roulette\bin\Debug\_4.Japanese_Roulette.pdb
+E:\Softuni\Programming Fundamentals Extended Grp\Arrays And Lists Algorithms More Exercises\ArraysAndListsAlgorithmME\4. Japanese Roulette\obj\Debug\4. Japanese Roulette.csprojResolveAssemblyReference.cache
+E:\Softuni\Programming Fundamentals Extended Grp\Arrays And Lists Algorithms More Exercises\ArraysAndListsAlgorithmME\4. Japanese Roulette\obj\Debug\_4.Japanese_Roulette.exe
+E:\Softuni\Programming Fundamentals Extended Grp\Arrays And Lists Algorithms More Exercises\ArraysAndListsAlgorithmME\4. Japanese Roulette\obj\Debug\_4.Japanese_Roulette.pdb

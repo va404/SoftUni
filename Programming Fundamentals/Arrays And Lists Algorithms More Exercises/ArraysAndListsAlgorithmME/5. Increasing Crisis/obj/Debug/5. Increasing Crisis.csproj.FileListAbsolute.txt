@@ -1,0 +1,6 @@
+E:\Softuni\Programming Fundamentals Extended Grp\Arrays And Lists Algorithms More Exercises\ArraysAndListsAlgorithmME\5. Increasing Crisis\obj\Debug\5. Increasing Crisis.csprojResolveAssemblyReference.cache
+E:\Softuni\Programming Fundamentals Extended Grp\Arrays And Lists Algorithms More Exercises\ArraysAndListsAlgorithmME\5. Increasing Crisis\bin\Debug\_5.Increasing_Crisis.exe.config
+E:\Softuni\Programming Fundamentals Extended Grp\Arrays And Lists Algorithms More Exercises\ArraysAndListsAlgorithmME\5. Increasing Crisis\bin\Debug\_5.Increasing_Crisis.exe
+E:\Softuni\Programming Fundamentals Extended Grp\Arrays And Lists Algorithms More Exercises\ArraysAndListsAlgorithmME\5. Increasing Crisis\bin\Debug\_5.Increasing_Crisis.pdb
+E:\Softuni\Programming Fundamentals Extended Grp\Arrays And Lists Algorithms More Exercises\ArraysAndListsAlgorithmME\5. Increasing Crisis\obj\Debug\_5.Increasing_Crisis.exe
+E:\Softuni\Programming Fundamentals Extended Grp\Arrays And Lists Algorithms More Exercises\ArraysAndListsAlgorithmME\5. Increasing Crisis\obj\Debug\_5.Increasing_Crisis.pdb

@@ -1,0 +1,5 @@
+E:\Softuni\Programming Fundamentals Extended Grp\List Exercises\List Exercises\6. Stuck Zipper\bin\Debug\_6.Stuck_Zipper.exe.config
+E:\Softuni\Programming Fundamentals Extended Grp\List Exercises\List Exercises\6. Stuck Zipper\bin\Debug\_6.Stuck_Zipper.exe
+E:\Softuni\Programming Fundamentals Extended Grp\List Exercises\List Exercises\6. Stuck Zipper\bin\Debug\_6.Stuck_Zipper.pdb
+E:\Softuni\Programming Fundamentals Extended Grp\List Exercises\List Exercises\6. Stuck Zipper\obj\Debug\_6.Stuck_Zipper.exe
+E:\Softuni\Programming Fundamentals Extended Grp\List Exercises\List Exercises\6. Stuck Zipper\obj\Debug\_6.Stuck_Zipper.pdb

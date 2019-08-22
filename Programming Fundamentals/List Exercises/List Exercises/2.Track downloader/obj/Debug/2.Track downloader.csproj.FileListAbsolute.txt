@@ -1,0 +1,5 @@
+E:\Softuni\Programming Fundamentals Extended Grp\List Exercises\List Exercises\2.Track downloader\bin\Debug\2.Track downloader.exe.config
+E:\Softuni\Programming Fundamentals Extended Grp\List Exercises\List Exercises\2.Track downloader\bin\Debug\2.Track downloader.exe
+E:\Softuni\Programming Fundamentals Extended Grp\List Exercises\List Exercises\2.Track downloader\bin\Debug\2.Track downloader.pdb
+E:\Softuni\Programming Fundamentals Extended Grp\List Exercises\List Exercises\2.Track downloader\obj\Debug\2.Track downloader.exe
+E:\Softuni\Programming Fundamentals Extended Grp\List Exercises\List Exercises\2.Track downloader\obj\Debug\2.Track downloader.pdb

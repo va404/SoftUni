@@ -1,0 +1,6 @@
+E:\Softuni\Programming Fundamentals Extended Grp\Arrays Exercises\Solution1\1. Last 3 Consecutive Equal Strings\bin\Debug\_1.Last_3_Consecutive_Equal_Strings.exe.config
+E:\Softuni\Programming Fundamentals Extended Grp\Arrays Exercises\Solution1\1. Last 3 Consecutive Equal Strings\bin\Debug\_1.Last_3_Consecutive_Equal_Strings.exe
+E:\Softuni\Programming Fundamentals Extended Grp\Arrays Exercises\Solution1\1. Last 3 Consecutive Equal Strings\bin\Debug\_1.Last_3_Consecutive_Equal_Strings.pdb
+E:\Softuni\Programming Fundamentals Extended Grp\Arrays Exercises\Solution1\1. Last 3 Consecutive Equal Strings\obj\Debug\1. Last 3 Consecutive Equal Strings.csprojResolveAssemblyReference.cache
+E:\Softuni\Programming Fundamentals Extended Grp\Arrays Exercises\Solution1\1. Last 3 Consecutive Equal Strings\obj\Debug\_1.Last_3_Consecutive_Equal_Strings.exe
+E:\Softuni\Programming Fundamentals Extended Grp\Arrays Exercises\Solution1\1. Last 3 Consecutive Equal Strings\obj\Debug\_1.Last_3_Consecutive_Equal_Strings.pdb

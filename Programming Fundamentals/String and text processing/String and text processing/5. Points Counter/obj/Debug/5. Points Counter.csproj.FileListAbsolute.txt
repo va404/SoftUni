@@ -1,0 +1,5 @@
+C:\Files\Softuni\Programming Fundamentals Extended Grp\String and text processing\String and text processing\5. Points Counter\bin\Debug\_5.Points_Counter.exe.config
+C:\Files\Softuni\Programming Fundamentals Extended Grp\String and text processing\String and text processing\5. Points Counter\bin\Debug\_5.Points_Counter.exe
+C:\Files\Softuni\Programming Fundamentals Extended Grp\String and text processing\String and text processing\5. Points Counter\bin\Debug\_5.Points_Counter.pdb
+C:\Files\Softuni\Programming Fundamentals Extended Grp\String and text processing\String and text processing\5. Points Counter\obj\Debug\_5.Points_Counter.exe
+C:\Files\Softuni\Programming Fundamentals Extended Grp\String and text processing\String and text processing\5. Points Counter\obj\Debug\_5.Points_Counter.pdb

@@ -1,0 +1,5 @@
+E:\Softuni\Programming Fundamentals Extended Grp\List Exercises\List Exercises\2. Integer Insertion\bin\Debug\_2.Integer_Insertion.exe.config
+E:\Softuni\Programming Fundamentals Extended Grp\List Exercises\List Exercises\2. Integer Insertion\bin\Debug\_2.Integer_Insertion.exe
+E:\Softuni\Programming Fundamentals Extended Grp\List Exercises\List Exercises\2. Integer Insertion\bin\Debug\_2.Integer_Insertion.pdb
+E:\Softuni\Programming Fundamentals Extended Grp\List Exercises\List Exercises\2. Integer Insertion\obj\Debug\_2.Integer_Insertion.exe
+E:\Softuni\Programming Fundamentals Extended Grp\List Exercises\List Exercises\2. Integer Insertion\obj\Debug\_2.Integer_Insertion.pdb

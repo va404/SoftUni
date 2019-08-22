@@ -1,0 +1,5 @@
+E:\Softuni\Programming Fundamentals Extended Grp\List Exercises\List Exercises\4. Flip List Sides\bin\Debug\_4.Flip_List_Sides.exe.config
+E:\Softuni\Programming Fundamentals Extended Grp\List Exercises\List Exercises\4. Flip List Sides\bin\Debug\_4.Flip_List_Sides.exe
+E:\Softuni\Programming Fundamentals Extended Grp\List Exercises\List Exercises\4. Flip List Sides\bin\Debug\_4.Flip_List_Sides.pdb
+E:\Softuni\Programming Fundamentals Extended Grp\List Exercises\List Exercises\4. Flip List Sides\obj\Debug\_4.Flip_List_Sides.exe
+E:\Softuni\Programming Fundamentals Extended Grp\List Exercises\List Exercises\4. Flip List Sides\obj\Debug\_4.Flip_List_Sides.pdb

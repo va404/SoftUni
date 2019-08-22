@@ -1,0 +1,6 @@
+E:\Softuni\Programming Fundamentals\8.Dictionary Exercises\Dictionary Exercises\6. Filter Base\bin\Debug\_6.Filter_Base.exe.config
+E:\Softuni\Programming Fundamentals\8.Dictionary Exercises\Dictionary Exercises\6. Filter Base\bin\Debug\_6.Filter_Base.exe
+E:\Softuni\Programming Fundamentals\8.Dictionary Exercises\Dictionary Exercises\6. Filter Base\bin\Debug\_6.Filter_Base.pdb
+E:\Softuni\Programming Fundamentals\8.Dictionary Exercises\Dictionary Exercises\6. Filter Base\obj\Debug\6. Filter Base.csprojResolveAssemblyReference.cache
+E:\Softuni\Programming Fundamentals\8.Dictionary Exercises\Dictionary Exercises\6. Filter Base\obj\Debug\_6.Filter_Base.exe
+E:\Softuni\Programming Fundamentals\8.Dictionary Exercises\Dictionary Exercises\6. Filter Base\obj\Debug\_6.Filter_Base.pdb

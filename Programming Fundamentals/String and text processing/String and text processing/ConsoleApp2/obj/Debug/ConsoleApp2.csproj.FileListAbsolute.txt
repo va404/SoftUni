@@ -1,0 +1,6 @@
+C:\Files\Softuni\Programming Fundamentals Extended Grp\String and text processing\String and text processing\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Files\Softuni\Programming Fundamentals Extended Grp\String and text processing\String and text processing\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Files\Softuni\Programming Fundamentals Extended Grp\String and text processing\String and text processing\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Files\Softuni\Programming Fundamentals Extended Grp\String and text processing\String and text processing\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Files\Softuni\Programming Fundamentals Extended Grp\String and text processing\String and text processing\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Files\Softuni\Programming Fundamentals Extended Grp\String and text processing\String and text processing\ConsoleApp2\obj\Debug\ConsoleApp2.pdb

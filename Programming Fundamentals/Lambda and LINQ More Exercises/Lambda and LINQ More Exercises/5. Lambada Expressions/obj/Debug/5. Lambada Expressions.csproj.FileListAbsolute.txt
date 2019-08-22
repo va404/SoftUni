@@ -1,0 +1,6 @@
+E:\Softuni\Programming Fundamentals Extended Grp\Lambda and LINQ More Exercises\Lambda and LINQ More Exercises\5. Lambada Expressions\bin\Debug\_5.Lambada_Expressions.exe.config
+E:\Softuni\Programming Fundamentals Extended Grp\Lambda and LINQ More Exercises\Lambda and LINQ More Exercises\5. Lambada Expressions\bin\Debug\_5.Lambada_Expressions.exe
+E:\Softuni\Programming Fundamentals Extended Grp\Lambda and LINQ More Exercises\Lambda and LINQ More Exercises\5. Lambada Expressions\bin\Debug\_5.Lambada_Expressions.pdb
+E:\Softuni\Programming Fundamentals Extended Grp\Lambda and LINQ More Exercises\Lambda and LINQ More Exercises\5. Lambada Expressions\obj\Debug\5. Lambada Expressions.csprojResolveAssemblyReference.cache
+E:\Softuni\Programming Fundamentals Extended Grp\Lambda and LINQ More Exercises\Lambda and LINQ More Exercises\5. Lambada Expressions\obj\Debug\_5.Lambada_Expressions.exe
+E:\Softuni\Programming Fundamentals Extended Grp\Lambda and LINQ More Exercises\Lambda and LINQ More Exercises\5. Lambada Expressions\obj\Debug\_5.Lambada_Expressions.pdb

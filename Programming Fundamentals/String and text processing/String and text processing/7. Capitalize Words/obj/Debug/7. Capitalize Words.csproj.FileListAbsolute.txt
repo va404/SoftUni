@@ -1,0 +1,5 @@
+C:\Files\Softuni\Programming Fundamentals Extended Grp\String and text processing\String and text processing\7. Capitalize Words\bin\Debug\_7.Capitalize_Words.exe.config
+C:\Files\Softuni\Programming Fundamentals Extended Grp\String and text processing\String and text processing\7. Capitalize Words\bin\Debug\_7.Capitalize_Words.exe
+C:\Files\Softuni\Programming Fundamentals Extended Grp\String and text processing\String and text processing\7. Capitalize Words\bin\Debug\_7.Capitalize_Words.pdb
+C:\Files\Softuni\Programming Fundamentals Extended Grp\String and text processing\String and text processing\7. Capitalize Words\obj\Debug\_7.Capitalize_Words.exe
+C:\Files\Softuni\Programming Fundamentals Extended Grp\String and text processing\String and text processing\7. Capitalize Words\obj\Debug\_7.Capitalize_Words.pdb

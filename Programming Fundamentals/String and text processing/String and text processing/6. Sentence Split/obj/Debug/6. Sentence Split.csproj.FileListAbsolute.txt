@@ -1,0 +1,6 @@
+C:\Files\Softuni\Programming Fundamentals Extended Grp\String and text processing\String and text processing\6. Sentence Split\bin\Debug\_6.Sentence_Split.exe.config
+C:\Files\Softuni\Programming Fundamentals Extended Grp\String and text processing\String and text processing\6. Sentence Split\bin\Debug\_6.Sentence_Split.exe
+C:\Files\Softuni\Programming Fundamentals Extended Grp\String and text processing\String and text processing\6. Sentence Split\bin\Debug\_6.Sentence_Split.pdb
+C:\Files\Softuni\Programming Fundamentals Extended Grp\String and text processing\String and text processing\6. Sentence Split\obj\Debug\6. Sentence Split.csprojResolveAssemblyReference.cache
+C:\Files\Softuni\Programming Fundamentals Extended Grp\String and text processing\String and text processing\6. Sentence Split\obj\Debug\_6.Sentence_Split.exe
+C:\Files\Softuni\Programming Fundamentals Extended Grp\String and text processing\String and text processing\6. Sentence Split\obj\Debug\_6.Sentence_Split.pdb

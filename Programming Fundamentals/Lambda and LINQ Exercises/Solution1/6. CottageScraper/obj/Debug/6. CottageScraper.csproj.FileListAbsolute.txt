@@ -1,0 +1,6 @@
+E:\Softuni\Programming Fundamentals Extended Grp\Lambda and LINQ Exercises\Solution1\6. CottageScraper\bin\Debug\_6.CottageScraper.exe.config
+E:\Softuni\Programming Fundamentals Extended Grp\Lambda and LINQ Exercises\Solution1\6. CottageScraper\bin\Debug\_6.CottageScraper.exe
+E:\Softuni\Programming Fundamentals Extended Grp\Lambda and LINQ Exercises\Solution1\6. CottageScraper\bin\Debug\_6.CottageScraper.pdb
+E:\Softuni\Programming Fundamentals Extended Grp\Lambda and LINQ Exercises\Solution1\6. CottageScraper\obj\Debug\6. CottageScraper.csprojResolveAssemblyReference.cache
+E:\Softuni\Programming Fundamentals Extended Grp\Lambda and LINQ Exercises\Solution1\6. CottageScraper\obj\Debug\_6.CottageScraper.exe
+E:\Softuni\Programming Fundamentals Extended Grp\Lambda and LINQ Exercises\Solution1\6. CottageScraper\obj\Debug\_6.CottageScraper.pdb

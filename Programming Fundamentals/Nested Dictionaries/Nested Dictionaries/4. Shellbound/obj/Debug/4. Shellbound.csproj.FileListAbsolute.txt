@@ -1,0 +1,5 @@
+E:\Softuni\Programming Fundamentals Extended Grp\Nested Dictionaries\Nested Dictionaries\4. Shellbound\bin\Debug\_4.Shellbound.exe.config
+E:\Softuni\Programming Fundamentals Extended Grp\Nested Dictionaries\Nested Dictionaries\4. Shellbound\bin\Debug\_4.Shellbound.exe
+E:\Softuni\Programming Fundamentals Extended Grp\Nested Dictionaries\Nested Dictionaries\4. Shellbound\bin\Debug\_4.Shellbound.pdb
+E:\Softuni\Programming Fundamentals Extended Grp\Nested Dictionaries\Nested Dictionaries\4. Shellbound\obj\Debug\_4.Shellbound.exe
+E:\Softuni\Programming Fundamentals Extended Grp\Nested Dictionaries\Nested Dictionaries\4. Shellbound\obj\Debug\_4.Shellbound.pdb

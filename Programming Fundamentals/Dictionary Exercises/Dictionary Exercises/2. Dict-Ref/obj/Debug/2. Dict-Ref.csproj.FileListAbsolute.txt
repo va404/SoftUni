@@ -1,0 +1,12 @@
+E:\Softuni\Programming Fundamentals\8.Dictionary Exercises\Dictionary Exercises\2. Dict-Ref\bin\Debug\_2.Dict_Ref.exe.config
+E:\Softuni\Programming Fundamentals\8.Dictionary Exercises\Dictionary Exercises\2. Dict-Ref\bin\Debug\_2.Dict_Ref.exe
+E:\Softuni\Programming Fundamentals\8.Dictionary Exercises\Dictionary Exercises\2. Dict-Ref\bin\Debug\_2.Dict_Ref.pdb
+E:\Softuni\Programming Fundamentals\8.Dictionary Exercises\Dictionary Exercises\2. Dict-Ref\obj\Debug\_2.Dict_Ref.exe
+E:\Softuni\Programming Fundamentals\8.Dictionary Exercises\Dictionary Exercises\2. Dict-Ref\obj\Debug\_2.Dict_Ref.pdb
+E:\Softuni\Programming Fundamentals\8.Dictionary Exercises\Dictionary Exercises\2. Dict-Ref\obj\Debug\2. Dict-Ref.csprojResolveAssemblyReference.cache
+E:\Softuni\Programming Fundamentals Extended Grp\Dictionary Exercises\Dictionary Exercises\2. Dict-Ref\bin\Debug\_2.Dict_Ref.exe.config
+E:\Softuni\Programming Fundamentals Extended Grp\Dictionary Exercises\Dictionary Exercises\2. Dict-Ref\bin\Debug\_2.Dict_Ref.exe
+E:\Softuni\Programming Fundamentals Extended Grp\Dictionary Exercises\Dictionary Exercises\2. Dict-Ref\bin\Debug\_2.Dict_Ref.pdb
+E:\Softuni\Programming Fundamentals Extended Grp\Dictionary Exercises\Dictionary Exercises\2. Dict-Ref\obj\Debug\2. Dict-Ref.csprojResolveAssemblyReference.cache
+E:\Softuni\Programming Fundamentals Extended Grp\Dictionary Exercises\Dictionary Exercises\2. Dict-Ref\obj\Debug\_2.Dict_Ref.exe
+E:\Softuni\Programming Fundamentals Extended Grp\Dictionary Exercises\Dictionary Exercises\2. Dict-Ref\obj\Debug\_2.Dict_Ref.pdb

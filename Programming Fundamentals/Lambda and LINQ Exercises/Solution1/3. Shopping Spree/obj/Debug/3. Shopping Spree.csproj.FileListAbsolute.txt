@@ -1,0 +1,5 @@
+E:\Softuni\Programming Fundamentals Extended Grp\Lambda and LINQ Exercises\Solution1\3. Shopping Spree\bin\Debug\_3.Shopping_Spree.exe.config
+E:\Softuni\Programming Fundamentals Extended Grp\Lambda and LINQ Exercises\Solution1\3. Shopping Spree\bin\Debug\_3.Shopping_Spree.exe
+E:\Softuni\Programming Fundamentals Extended Grp\Lambda and LINQ Exercises\Solution1\3. Shopping Spree\bin\Debug\_3.Shopping_Spree.pdb
+E:\Softuni\Programming Fundamentals Extended Grp\Lambda and LINQ Exercises\Solution1\3. Shopping Spree\obj\Debug\_3.Shopping_Spree.exe
+E:\Softuni\Programming Fundamentals Extended Grp\Lambda and LINQ Exercises\Solution1\3. Shopping Spree\obj\Debug\_3.Shopping_Spree.pdb

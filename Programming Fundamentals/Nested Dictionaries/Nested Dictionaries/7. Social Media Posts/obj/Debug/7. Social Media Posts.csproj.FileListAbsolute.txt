@@ -1,0 +1,6 @@
+E:\Softuni\Programming Fundamentals Extended Grp\Nested Dictionaries\Nested Dictionaries\7. Social Media Posts\bin\Debug\_7.Social_Media_Posts.exe.config
+E:\Softuni\Programming Fundamentals Extended Grp\Nested Dictionaries\Nested Dictionaries\7. Social Media Posts\bin\Debug\_7.Social_Media_Posts.exe
+E:\Softuni\Programming Fundamentals Extended Grp\Nested Dictionaries\Nested Dictionaries\7. Social Media Posts\bin\Debug\_7.Social_Media_Posts.pdb
+E:\Softuni\Programming Fundamentals Extended Grp\Nested Dictionaries\Nested Dictionaries\7. Social Media Posts\obj\Debug\7. Social Media Posts.csprojResolveAssemblyReference.cache
+E:\Softuni\Programming Fundamentals Extended Grp\Nested Dictionaries\Nested Dictionaries\7. Social Media Posts\obj\Debug\_7.Social_Media_Posts.exe
+E:\Softuni\Programming Fundamentals Extended Grp\Nested Dictionaries\Nested Dictionaries\7. Social Media Posts\obj\Debug\_7.Social_Media_Posts.pdb

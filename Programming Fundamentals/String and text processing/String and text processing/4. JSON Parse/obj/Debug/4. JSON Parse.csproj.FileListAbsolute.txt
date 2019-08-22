@@ -1,0 +1,5 @@
+C:\Files\Softuni\Programming Fundamentals Extended Grp\String and text processing\String and text processing\4. JSON Parse\bin\Debug\_4.JSON_Parse.exe.config
+C:\Files\Softuni\Programming Fundamentals Extended Grp\String and text processing\String and text processing\4. JSON Parse\bin\Debug\_4.JSON_Parse.exe
+C:\Files\Softuni\Programming Fundamentals Extended Grp\String and text processing\String and text processing\4. JSON Parse\bin\Debug\_4.JSON_Parse.pdb
+C:\Files\Softuni\Programming Fundamentals Extended Grp\String and text processing\String and text processing\4. JSON Parse\obj\Debug\_4.JSON_Parse.exe
+C:\Files\Softuni\Programming Fundamentals Extended Grp\String and text processing\String and text processing\4. JSON Parse\obj\Debug\_4.JSON_Parse.pdb

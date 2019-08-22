@@ -1,0 +1,6 @@
+E:\Softuni\Programming Fundamentals Extended Grp\List Exercises\List Exercises\3. Camel’s Back\bin\Debug\_3.Camel_s_Back.exe.config
+E:\Softuni\Programming Fundamentals Extended Grp\List Exercises\List Exercises\3. Camel’s Back\bin\Debug\_3.Camel_s_Back.exe
+E:\Softuni\Programming Fundamentals Extended Grp\List Exercises\List Exercises\3. Camel’s Back\bin\Debug\_3.Camel_s_Back.pdb
+E:\Softuni\Programming Fundamentals Extended Grp\List Exercises\List Exercises\3. Camel’s Back\obj\Debug\_3.Camel_s_Back.exe
+E:\Softuni\Programming Fundamentals Extended Grp\List Exercises\List Exercises\3. Camel’s Back\obj\Debug\_3.Camel_s_Back.pdb
+E:\Softuni\Programming Fundamentals Extended Grp\List Exercises\List Exercises\3. Camel’s Back\obj\Debug\3. Camel’s Back.csprojResolveAssemblyReference.cache

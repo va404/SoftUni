@@ -1,0 +1,6 @@
+C:\Files\Softuni\Programming Fundamentals Extended Grp\Objects And Classes\Object And Classes\4. Websites\bin\Debug\_4.Websites.exe.config
+C:\Files\Softuni\Programming Fundamentals Extended Grp\Objects And Classes\Object And Classes\4. Websites\bin\Debug\_4.Websites.exe
+C:\Files\Softuni\Programming Fundamentals Extended Grp\Objects And Classes\Object And Classes\4. Websites\bin\Debug\_4.Websites.pdb
+C:\Files\Softuni\Programming Fundamentals Extended Grp\Objects And Classes\Object And Classes\4. Websites\obj\Debug\4. Websites.csprojResolveAssemblyReference.cache
+C:\Files\Softuni\Programming Fundamentals Extended Grp\Objects And Classes\Object And Classes\4. Websites\obj\Debug\_4.Websites.exe
+C:\Files\Softuni\Programming Fundamentals Extended Grp\Objects And Classes\Object And Classes\4. Websites\obj\Debug\_4.Websites.pdb

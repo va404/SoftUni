@@ -1,0 +1,6 @@
+E:\Softuni\Programming Fundamentals Extended Grp\List Exercises\List Exercises\2. Track Downloader\bin\Debug\_2.Track_Downloader.exe.config
+E:\Softuni\Programming Fundamentals Extended Grp\List Exercises\List Exercises\2. Track Downloader\bin\Debug\_2.Track_Downloader.exe
+E:\Softuni\Programming Fundamentals Extended Grp\List Exercises\List Exercises\2. Track Downloader\bin\Debug\_2.Track_Downloader.pdb
+E:\Softuni\Programming Fundamentals Extended Grp\List Exercises\List Exercises\2. Track Downloader\obj\Debug\_2.Track_Downloader.exe
+E:\Softuni\Programming Fundamentals Extended Grp\List Exercises\List Exercises\2. Track Downloader\obj\Debug\_2.Track_Downloader.pdb
+E:\Softuni\Programming Fundamentals Extended Grp\List Exercises\List Exercises\2. Track Downloader\obj\Debug\2. Track Downloader.csprojResolveAssemblyReference.cache

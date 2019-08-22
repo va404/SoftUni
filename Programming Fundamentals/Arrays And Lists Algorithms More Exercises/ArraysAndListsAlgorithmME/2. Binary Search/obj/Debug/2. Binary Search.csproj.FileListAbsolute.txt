@@ -1,0 +1,6 @@
+E:\Softuni\Programming Fundamentals Extended Grp\Arrays And Lists Algorithms More Exercises\ArraysAndListsAlgorithmME\2. Binary Search\bin\Debug\_2.Binary_Search.exe.config
+E:\Softuni\Programming Fundamentals Extended Grp\Arrays And Lists Algorithms More Exercises\ArraysAndListsAlgorithmME\2. Binary Search\bin\Debug\_2.Binary_Search.exe
+E:\Softuni\Programming Fundamentals Extended Grp\Arrays And Lists Algorithms More Exercises\ArraysAndListsAlgorithmME\2. Binary Search\bin\Debug\_2.Binary_Search.pdb
+E:\Softuni\Programming Fundamentals Extended Grp\Arrays And Lists Algorithms More Exercises\ArraysAndListsAlgorithmME\2. Binary Search\obj\Debug\2. Binary Search.csprojResolveAssemblyReference.cache
+E:\Softuni\Programming Fundamentals Extended Grp\Arrays And Lists Algorithms More Exercises\ArraysAndListsAlgorithmME\2. Binary Search\obj\Debug\_2.Binary_Search.exe
+E:\Softuni\Programming Fundamentals Extended Grp\Arrays And Lists Algorithms More Exercises\ArraysAndListsAlgorithmME\2. Binary Search\obj\Debug\_2.Binary_Search.pdb

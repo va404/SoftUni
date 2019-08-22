@@ -1,0 +1,6 @@
+E:\Softuni\Programming Fundamentals Extended Grp\Lambda and LINQ More Exercises\Lambda and LINQ More Exercises\4. Most Valued Customer\bin\Debug\_4.Most_Valued_Customer.exe.config
+E:\Softuni\Programming Fundamentals Extended Grp\Lambda and LINQ More Exercises\Lambda and LINQ More Exercises\4. Most Valued Customer\bin\Debug\_4.Most_Valued_Customer.exe
+E:\Softuni\Programming Fundamentals Extended Grp\Lambda and LINQ More Exercises\Lambda and LINQ More Exercises\4. Most Valued Customer\bin\Debug\_4.Most_Valued_Customer.pdb
+E:\Softuni\Programming Fundamentals Extended Grp\Lambda and LINQ More Exercises\Lambda and LINQ More Exercises\4. Most Valued Customer\obj\Debug\_4.Most_Valued_Customer.exe
+E:\Softuni\Programming Fundamentals Extended Grp\Lambda and LINQ More Exercises\Lambda and LINQ More Exercises\4. Most Valued Customer\obj\Debug\_4.Most_Valued_Customer.pdb
+E:\Softuni\Programming Fundamentals Extended Grp\Lambda and LINQ More Exercises\Lambda and LINQ More Exercises\4. Most Valued Customer\obj\Debug\4. Most Valued Customer.csprojResolveAssemblyReference.cache

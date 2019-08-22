@@ -1,0 +1,6 @@
+E:\Softuni\Programming Fundamentals Extended Grp\Lambda and LINQ More Exercises\Lambda and LINQ More Exercises\7. LINQuistics\bin\Debug\_7.LINQuistics.exe.config
+E:\Softuni\Programming Fundamentals Extended Grp\Lambda and LINQ More Exercises\Lambda and LINQ More Exercises\7. LINQuistics\bin\Debug\_7.LINQuistics.exe
+E:\Softuni\Programming Fundamentals Extended Grp\Lambda and LINQ More Exercises\Lambda and LINQ More Exercises\7. LINQuistics\bin\Debug\_7.LINQuistics.pdb
+E:\Softuni\Programming Fundamentals Extended Grp\Lambda and LINQ More Exercises\Lambda and LINQ More Exercises\7. LINQuistics\obj\Debug\7. LINQuistics.csprojResolveAssemblyReference.cache
+E:\Softuni\Programming Fundamentals Extended Grp\Lambda and LINQ More Exercises\Lambda and LINQ More Exercises\7. LINQuistics\obj\Debug\_7.LINQuistics.exe
+E:\Softuni\Programming Fundamentals Extended Grp\Lambda and LINQ More Exercises\Lambda and LINQ More Exercises\7. LINQuistics\obj\Debug\_7.LINQuistics.pdb

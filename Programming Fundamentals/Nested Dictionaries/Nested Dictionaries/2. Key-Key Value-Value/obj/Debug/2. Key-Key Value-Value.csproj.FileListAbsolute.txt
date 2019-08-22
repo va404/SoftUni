@@ -1,0 +1,6 @@
+E:\Softuni\Programming Fundamentals Extended Grp\Nested Dictionaries\Nested Dictionaries\2. Key-Key Value-Value\bin\Debug\_2.Key_Key_Value_Value.exe.config
+E:\Softuni\Programming Fundamentals Extended Grp\Nested Dictionaries\Nested Dictionaries\2. Key-Key Value-Value\bin\Debug\_2.Key_Key_Value_Value.exe
+E:\Softuni\Programming Fundamentals Extended Grp\Nested Dictionaries\Nested Dictionaries\2. Key-Key Value-Value\bin\Debug\_2.Key_Key_Value_Value.pdb
+E:\Softuni\Programming Fundamentals Extended Grp\Nested Dictionaries\Nested Dictionaries\2. Key-Key Value-Value\obj\Debug\2. Key-Key Value-Value.csprojResolveAssemblyReference.cache
+E:\Softuni\Programming Fundamentals Extended Grp\Nested Dictionaries\Nested Dictionaries\2. Key-Key Value-Value\obj\Debug\_2.Key_Key_Value_Value.exe
+E:\Softuni\Programming Fundamentals Extended Grp\Nested Dictionaries\Nested Dictionaries\2. Key-Key Value-Value\obj\Debug\_2.Key_Key_Value_Value.pdb

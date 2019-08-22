@@ -1,0 +1,6 @@
+E:\Softuni\Programming Fundamentals Extended Grp\Nested Dictionaries\Nested Dictionaries\6. Forum Topics\bin\Debug\_6.Forum_Topics.exe.config
+E:\Softuni\Programming Fundamentals Extended Grp\Nested Dictionaries\Nested Dictionaries\6. Forum Topics\bin\Debug\_6.Forum_Topics.exe
+E:\Softuni\Programming Fundamentals Extended Grp\Nested Dictionaries\Nested Dictionaries\6. Forum Topics\bin\Debug\_6.Forum_Topics.pdb
+E:\Softuni\Programming Fundamentals Extended Grp\Nested Dictionaries\Nested Dictionaries\6. Forum Topics\obj\Debug\6. Forum Topics.csprojResolveAssemblyReference.cache
+E:\Softuni\Programming Fundamentals Extended Grp\Nested Dictionaries\Nested Dictionaries\6. Forum Topics\obj\Debug\_6.Forum_Topics.exe
+E:\Softuni\Programming Fundamentals Extended Grp\Nested Dictionaries\Nested Dictionaries\6. Forum Topics\obj\Debug\_6.Forum_Topics.pdb

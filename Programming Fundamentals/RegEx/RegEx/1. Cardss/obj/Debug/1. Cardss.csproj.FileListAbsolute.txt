@@ -1,0 +1,6 @@
+C:\Files\Softuni\Programming Fundamentals Extended Grp\RegEx\RegEx\1. Cardss\bin\Debug\_1.Cardss.exe.config
+C:\Files\Softuni\Programming Fundamentals Extended Grp\RegEx\RegEx\1. Cardss\bin\Debug\_1.Cardss.exe
+C:\Files\Softuni\Programming Fundamentals Extended Grp\RegEx\RegEx\1. Cardss\bin\Debug\_1.Cardss.pdb
+C:\Files\Softuni\Programming Fundamentals Extended Grp\RegEx\RegEx\1. Cardss\obj\Debug\1. Cardss.csprojResolveAssemblyReference.cache
+C:\Files\Softuni\Programming Fundamentals Extended Grp\RegEx\RegEx\1. Cardss\obj\Debug\_1.Cardss.exe
+C:\Files\Softuni\Programming Fundamentals Extended Grp\RegEx\RegEx\1. Cardss\obj\Debug\_1.Cardss.pdb

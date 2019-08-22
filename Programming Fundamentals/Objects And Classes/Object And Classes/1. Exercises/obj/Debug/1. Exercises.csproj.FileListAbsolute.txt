@@ -1,0 +1,6 @@
+C:\Files\Softuni\Programming Fundamentals Extended Grp\Objects And Classes\Object And Classes\1. Exercises\bin\Debug\_1.Exercises.exe.config
+C:\Files\Softuni\Programming Fundamentals Extended Grp\Objects And Classes\Object And Classes\1. Exercises\bin\Debug\_1.Exercises.exe
+C:\Files\Softuni\Programming Fundamentals Extended Grp\Objects And Classes\Object And Classes\1. Exercises\bin\Debug\_1.Exercises.pdb
+C:\Files\Softuni\Programming Fundamentals Extended Grp\Objects And Classes\Object And Classes\1. Exercises\obj\Debug\1. Exercises.csprojResolveAssemblyReference.cache
+C:\Files\Softuni\Programming Fundamentals Extended Grp\Objects And Classes\Object And Classes\1. Exercises\obj\Debug\_1.Exercises.exe
+C:\Files\Softuni\Programming Fundamentals Extended Grp\Objects And Classes\Object And Classes\1. Exercises\obj\Debug\_1.Exercises.pdb

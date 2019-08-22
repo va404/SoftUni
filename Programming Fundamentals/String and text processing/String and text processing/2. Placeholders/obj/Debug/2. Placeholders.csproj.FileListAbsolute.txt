@@ -1,0 +1,5 @@
+C:\Files\Softuni\Programming Fundamentals Extended Grp\String and text processing\String and text processing\2. Placeholders\bin\Debug\_2.Placeholders.exe.config
+C:\Files\Softuni\Programming Fundamentals Extended Grp\String and text processing\String and text processing\2. Placeholders\bin\Debug\_2.Placeholders.exe
+C:\Files\Softuni\Programming Fundamentals Extended Grp\String and text processing\String and text processing\2. Placeholders\bin\Debug\_2.Placeholders.pdb
+C:\Files\Softuni\Programming Fundamentals Extended Grp\String and text processing\String and text processing\2. Placeholders\obj\Debug\_2.Placeholders.exe
+C:\Files\Softuni\Programming Fundamentals Extended Grp\String and text processing\String and text processing\2. Placeholders\obj\Debug\_2.Placeholders.pdb

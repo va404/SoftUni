@@ -1,0 +1,6 @@
+E:\Softuni\Programming Fundamentals Extended Grp\Nested Dictionaries\Nested Dictionaries\1. Wardrobe\obj\Debug\1. Wardrobe.csprojResolveAssemblyReference.cache
+E:\Softuni\Programming Fundamentals Extended Grp\Nested Dictionaries\Nested Dictionaries\1. Wardrobe\bin\Debug\_1.Wardrobe.exe.config
+E:\Softuni\Programming Fundamentals Extended Grp\Nested Dictionaries\Nested Dictionaries\1. Wardrobe\bin\Debug\_1.Wardrobe.exe
+E:\Softuni\Programming Fundamentals Extended Grp\Nested Dictionaries\Nested Dictionaries\1. Wardrobe\bin\Debug\_1.Wardrobe.pdb
+E:\Softuni\Programming Fundamentals Extended Grp\Nested Dictionaries\Nested Dictionaries\1. Wardrobe\obj\Debug\_1.Wardrobe.exe
+E:\Softuni\Programming Fundamentals Extended Grp\Nested Dictionaries\Nested Dictionaries\1. Wardrobe\obj\Debug\_1.Wardrobe.pdb

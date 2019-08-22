@@ -1,0 +1,6 @@
+C:\Files\Softuni\Programming Fundamentals Extended Grp\Objects And Classes\Object And Classes\2. Optimized Banking System\bin\Debug\_2.Optimized_Banking_System.exe.config
+C:\Files\Softuni\Programming Fundamentals Extended Grp\Objects And Classes\Object And Classes\2. Optimized Banking System\bin\Debug\_2.Optimized_Banking_System.exe
+C:\Files\Softuni\Programming Fundamentals Extended Grp\Objects And Classes\Object And Classes\2. Optimized Banking System\bin\Debug\_2.Optimized_Banking_System.pdb
+C:\Files\Softuni\Programming Fundamentals Extended Grp\Objects And Classes\Object And Classes\2. Optimized Banking System\obj\Debug\2. Optimized Banking System.csprojResolveAssemblyReference.cache
+C:\Files\Softuni\Programming Fundamentals Extended Grp\Objects And Classes\Object And Classes\2. Optimized Banking System\obj\Debug\_2.Optimized_Banking_System.exe
+C:\Files\Softuni\Programming Fundamentals Extended Grp\Objects And Classes\Object And Classes\2. Optimized Banking System\obj\Debug\_2.Optimized_Banking_System.pdb

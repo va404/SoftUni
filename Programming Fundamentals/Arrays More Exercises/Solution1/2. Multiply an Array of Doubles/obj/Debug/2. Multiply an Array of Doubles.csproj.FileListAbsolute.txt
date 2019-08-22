@@ -1,0 +1,5 @@
+E:\Softuni\Programming Fundamentals Extended Grp\Arrays More Exercises\Solution1\2. Multiply an Array of Doubles\bin\Debug\_2.Multiply_an_Array_of_Doubles.exe.config
+E:\Softuni\Programming Fundamentals Extended Grp\Arrays More Exercises\Solution1\2. Multiply an Array of Doubles\bin\Debug\_2.Multiply_an_Array_of_Doubles.exe
+E:\Softuni\Programming Fundamentals Extended Grp\Arrays More Exercises\Solution1\2. Multiply an Array of Doubles\bin\Debug\_2.Multiply_an_Array_of_Doubles.pdb
+E:\Softuni\Programming Fundamentals Extended Grp\Arrays More Exercises\Solution1\2. Multiply an Array of Doubles\obj\Debug\_2.Multiply_an_Array_of_Doubles.exe
+E:\Softuni\Programming Fundamentals Extended Grp\Arrays More Exercises\Solution1\2. Multiply an Array of Doubles\obj\Debug\_2.Multiply_an_Array_of_Doubles.pdb

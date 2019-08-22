@@ -1,0 +1,6 @@
+E:\Softuni\Programming Fundamentals Extended Grp\Arrays And Lists Algorithms More Exercises\ArraysAndListsAlgorithmME\3. Mirror Image\bin\Debug\_3.Mirror_Image.exe.config
+E:\Softuni\Programming Fundamentals Extended Grp\Arrays And Lists Algorithms More Exercises\ArraysAndListsAlgorithmME\3. Mirror Image\bin\Debug\_3.Mirror_Image.exe
+E:\Softuni\Programming Fundamentals Extended Grp\Arrays And Lists Algorithms More Exercises\ArraysAndListsAlgorithmME\3. Mirror Image\bin\Debug\_3.Mirror_Image.pdb
+E:\Softuni\Programming Fundamentals Extended Grp\Arrays And Lists Algorithms More Exercises\ArraysAndListsAlgorithmME\3. Mirror Image\obj\Debug\_3.Mirror_Image.exe
+E:\Softuni\Programming Fundamentals Extended Grp\Arrays And Lists Algorithms More Exercises\ArraysAndListsAlgorithmME\3. Mirror Image\obj\Debug\_3.Mirror_Image.pdb
+E:\Softuni\Programming Fundamentals Extended Grp\Arrays And Lists Algorithms More Exercises\ArraysAndListsAlgorithmME\3. Mirror Image\obj\Debug\3. Mirror Image.csprojResolveAssemblyReference.cache

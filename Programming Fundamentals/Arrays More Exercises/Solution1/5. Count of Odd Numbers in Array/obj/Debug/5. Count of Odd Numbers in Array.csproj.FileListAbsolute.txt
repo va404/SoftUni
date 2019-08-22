@@ -1,0 +1,5 @@
+E:\Softuni\Programming Fundamentals Extended Grp\Arrays More Exercises\Solution1\5. Count of Odd Numbers in Array\bin\Debug\_5.Count_of_Odd_Numbers_in_Array.exe.config
+E:\Softuni\Programming Fundamentals Extended Grp\Arrays More Exercises\Solution1\5. Count of Odd Numbers in Array\bin\Debug\_5.Count_of_Odd_Numbers_in_Array.exe
+E:\Softuni\Programming Fundamentals Extended Grp\Arrays More Exercises\Solution1\5. Count of Odd Numbers in Array\bin\Debug\_5.Count_of_Odd_Numbers_in_Array.pdb
+E:\Softuni\Programming Fundamentals Extended Grp\Arrays More Exercises\Solution1\5. Count of Odd Numbers in Array\obj\Debug\_5.Count_of_Odd_Numbers_in_Array.exe
+E:\Softuni\Programming Fundamentals Extended Grp\Arrays More Exercises\Solution1\5. Count of Odd Numbers in Array\obj\Debug\_5.Count_of_Odd_Numbers_in_Array.pdb

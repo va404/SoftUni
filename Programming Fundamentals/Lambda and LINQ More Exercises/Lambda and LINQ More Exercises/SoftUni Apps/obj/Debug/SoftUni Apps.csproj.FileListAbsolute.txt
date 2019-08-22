@@ -1,0 +1,6 @@
+C:\Files\Softuni\Programming Fundamentals Extended Grp\Lambda and LINQ More Exercises\Lambda and LINQ More Exercises\SoftUni Apps\obj\Debug\SoftUni Apps.csprojResolveAssemblyReference.cache
+C:\Files\Softuni\Programming Fundamentals Extended Grp\Lambda and LINQ More Exercises\Lambda and LINQ More Exercises\SoftUni Apps\bin\Debug\SoftUni Apps.exe.config
+C:\Files\Softuni\Programming Fundamentals Extended Grp\Lambda and LINQ More Exercises\Lambda and LINQ More Exercises\SoftUni Apps\bin\Debug\SoftUni Apps.exe
+C:\Files\Softuni\Programming Fundamentals Extended Grp\Lambda and LINQ More Exercises\Lambda and LINQ More Exercises\SoftUni Apps\bin\Debug\SoftUni Apps.pdb
+C:\Files\Softuni\Programming Fundamentals Extended Grp\Lambda and LINQ More Exercises\Lambda and LINQ More Exercises\SoftUni Apps\obj\Debug\SoftUni Apps.exe
+C:\Files\Softuni\Programming Fundamentals Extended Grp\Lambda and LINQ More Exercises\Lambda and LINQ More Exercises\SoftUni Apps\obj\Debug\SoftUni Apps.pdb

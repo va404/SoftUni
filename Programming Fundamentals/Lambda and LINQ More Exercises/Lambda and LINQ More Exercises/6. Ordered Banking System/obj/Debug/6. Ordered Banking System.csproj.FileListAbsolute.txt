@@ -1,0 +1,6 @@
+E:\Softuni\Programming Fundamentals Extended Grp\Lambda and LINQ More Exercises\Lambda and LINQ More Exercises\6. Ordered Banking System\bin\Debug\_6.Ordered_Banking_System.exe.config
+E:\Softuni\Programming Fundamentals Extended Grp\Lambda and LINQ More Exercises\Lambda and LINQ More Exercises\6. Ordered Banking System\bin\Debug\_6.Ordered_Banking_System.exe
+E:\Softuni\Programming Fundamentals Extended Grp\Lambda and LINQ More Exercises\Lambda and LINQ More Exercises\6. Ordered Banking System\bin\Debug\_6.Ordered_Banking_System.pdb
+E:\Softuni\Programming Fundamentals Extended Grp\Lambda and LINQ More Exercises\Lambda and LINQ More Exercises\6. Ordered Banking System\obj\Debug\6. Ordered Banking System.csprojResolveAssemblyReference.cache
+E:\Softuni\Programming Fundamentals Extended Grp\Lambda and LINQ More Exercises\Lambda and LINQ More Exercises\6. Ordered Banking System\obj\Debug\_6.Ordered_Banking_System.exe
+E:\Softuni\Programming Fundamentals Extended Grp\Lambda and LINQ More Exercises\Lambda and LINQ More Exercises\6. Ordered Banking System\obj\Debug\_6.Ordered_Banking_System.pdb

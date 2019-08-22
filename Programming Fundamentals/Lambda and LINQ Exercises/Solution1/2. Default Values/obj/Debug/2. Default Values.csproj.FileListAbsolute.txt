@@ -1,0 +1,5 @@
+E:\Softuni\Programming Fundamentals Extended Grp\Lambda and LINQ Exercises\Solution1\2. Default Values\bin\Debug\_2.Default_Values.exe.config
+E:\Softuni\Programming Fundamentals Extended Grp\Lambda and LINQ Exercises\Solution1\2. Default Values\bin\Debug\_2.Default_Values.exe
+E:\Softuni\Programming Fundamentals Extended Grp\Lambda and LINQ Exercises\Solution1\2. Default Values\bin\Debug\_2.Default_Values.pdb
+E:\Softuni\Programming Fundamentals Extended Grp\Lambda and LINQ Exercises\Solution1\2. Default Values\obj\Debug\_2.Default_Values.exe
+E:\Softuni\Programming Fundamentals Extended Grp\Lambda and LINQ Exercises\Solution1\2. Default Values\obj\Debug\_2.Default_Values.pdb

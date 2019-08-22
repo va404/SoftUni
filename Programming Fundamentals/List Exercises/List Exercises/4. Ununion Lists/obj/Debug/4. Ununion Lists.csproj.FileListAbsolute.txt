@@ -1,0 +1,6 @@
+E:\Softuni\Programming Fundamentals Extended Grp\List Exercises\List Exercises\4. Ununion Lists\bin\Debug\_4.Ununion_Lists.exe.config
+E:\Softuni\Programming Fundamentals Extended Grp\List Exercises\List Exercises\4. Ununion Lists\bin\Debug\_4.Ununion_Lists.exe
+E:\Softuni\Programming Fundamentals Extended Grp\List Exercises\List Exercises\4. Ununion Lists\bin\Debug\_4.Ununion_Lists.pdb
+E:\Softuni\Programming Fundamentals Extended Grp\List Exercises\List Exercises\4. Ununion Lists\obj\Debug\4. Ununion Lists.csprojResolveAssemblyReference.cache
+E:\Softuni\Programming Fundamentals Extended Grp\List Exercises\List Exercises\4. Ununion Lists\obj\Debug\_4.Ununion_Lists.exe
+E:\Softuni\Programming Fundamentals Extended Grp\List Exercises\List Exercises\4. Ununion Lists\obj\Debug\_4.Ununion_Lists.pdb

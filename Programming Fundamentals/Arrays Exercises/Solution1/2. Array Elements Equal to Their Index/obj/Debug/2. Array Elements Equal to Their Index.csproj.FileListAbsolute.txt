@@ -1,0 +1,5 @@
+E:\Softuni\Programming Fundamentals Extended Grp\Arrays Exercises\Solution1\2. Array Elements Equal to Their Index\bin\Debug\_2.Array_Elements_Equal_to_Their_Index.exe.config
+E:\Softuni\Programming Fundamentals Extended Grp\Arrays Exercises\Solution1\2. Array Elements Equal to Their Index\bin\Debug\_2.Array_Elements_Equal_to_Their_Index.exe
+E:\Softuni\Programming Fundamentals Extended Grp\Arrays Exercises\Solution1\2. Array Elements Equal to Their Index\bin\Debug\_2.Array_Elements_Equal_to_Their_Index.pdb
+E:\Softuni\Programming Fundamentals Extended Grp\Arrays Exercises\Solution1\2. Array Elements Equal to Their Index\obj\Debug\_2.Array_Elements_Equal_to_Their_Index.exe
+E:\Softuni\Programming Fundamentals Extended Grp\Arrays Exercises\Solution1\2. Array Elements Equal to Their Index\obj\Debug\_2.Array_Elements_Equal_to_Their_Index.pdb

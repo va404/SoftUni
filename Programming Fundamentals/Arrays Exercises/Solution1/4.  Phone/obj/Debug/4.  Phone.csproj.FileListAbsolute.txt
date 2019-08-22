@@ -1,0 +1,6 @@
+E:\Softuni\Programming Fundamentals Extended Grp\Arrays Exercises\Solution1\4.  Phone\obj\Debug\4.  Phone.csprojResolveAssemblyReference.cache
+E:\Softuni\Programming Fundamentals Extended Grp\Arrays Exercises\Solution1\4.  Phone\bin\Debug\_4.Phone.exe.config
+E:\Softuni\Programming Fundamentals Extended Grp\Arrays Exercises\Solution1\4.  Phone\bin\Debug\_4.Phone.exe
+E:\Softuni\Programming Fundamentals Extended Grp\Arrays Exercises\Solution1\4.  Phone\bin\Debug\_4.Phone.pdb
+E:\Softuni\Programming Fundamentals Extended Grp\Arrays Exercises\Solution1\4.  Phone\obj\Debug\_4.Phone.exe
+E:\Softuni\Programming Fundamentals Extended Grp\Arrays Exercises\Solution1\4.  Phone\obj\Debug\_4.Phone.pdb

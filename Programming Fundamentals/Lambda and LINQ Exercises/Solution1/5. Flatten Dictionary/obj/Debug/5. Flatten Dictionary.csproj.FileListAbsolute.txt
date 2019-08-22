@@ -1,0 +1,6 @@
+E:\Softuni\Programming Fundamentals Extended Grp\Lambda and LINQ Exercises\Solution1\5. Flatten Dictionary\bin\Debug\_5.Flatten_Dictionary.exe.config
+E:\Softuni\Programming Fundamentals Extended Grp\Lambda and LINQ Exercises\Solution1\5. Flatten Dictionary\bin\Debug\_5.Flatten_Dictionary.exe
+E:\Softuni\Programming Fundamentals Extended Grp\Lambda and LINQ Exercises\Solution1\5. Flatten Dictionary\bin\Debug\_5.Flatten_Dictionary.pdb
+E:\Softuni\Programming Fundamentals Extended Grp\Lambda and LINQ Exercises\Solution1\5. Flatten Dictionary\obj\Debug\5. Flatten Dictionary.csprojResolveAssemblyReference.cache
+E:\Softuni\Programming Fundamentals Extended Grp\Lambda and LINQ Exercises\Solution1\5. Flatten Dictionary\obj\Debug\_5.Flatten_Dictionary.exe
+E:\Softuni\Programming Fundamentals Extended Grp\Lambda and LINQ Exercises\Solution1\5. Flatten Dictionary\obj\Debug\_5.Flatten_Dictionary.pdb

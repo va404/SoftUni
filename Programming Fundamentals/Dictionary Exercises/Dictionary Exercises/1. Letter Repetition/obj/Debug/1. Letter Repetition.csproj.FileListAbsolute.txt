@@ -1,0 +1,6 @@
+E:\Softuni\Programming Fundamentals\8.Dictionary Exercises\Dictionary Exercises\1. Letter Repetition\bin\Debug\_1.Letter_Repetition.exe.config
+E:\Softuni\Programming Fundamentals\8.Dictionary Exercises\Dictionary Exercises\1. Letter Repetition\bin\Debug\_1.Letter_Repetition.exe
+E:\Softuni\Programming Fundamentals\8.Dictionary Exercises\Dictionary Exercises\1. Letter Repetition\bin\Debug\_1.Letter_Repetition.pdb
+E:\Softuni\Programming Fundamentals\8.Dictionary Exercises\Dictionary Exercises\1. Letter Repetition\obj\Debug\1. Letter Repetition.csprojResolveAssemblyReference.cache
+E:\Softuni\Programming Fundamentals\8.Dictionary Exercises\Dictionary Exercises\1. Letter Repetition\obj\Debug\_1.Letter_Repetition.exe
+E:\Softuni\Programming Fundamentals\8.Dictionary Exercises\Dictionary Exercises\1. Letter Repetition\obj\Debug\_1.Letter_Repetition.pdb

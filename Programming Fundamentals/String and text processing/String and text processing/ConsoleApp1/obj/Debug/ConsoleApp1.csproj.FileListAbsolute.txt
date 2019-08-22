@@ -1,0 +1,6 @@
+C:\Files\Softuni\Programming Fundamentals Extended Grp\String and text processing\String and text processing\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Files\Softuni\Programming Fundamentals Extended Grp\String and text processing\String and text processing\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Files\Softuni\Programming Fundamentals Extended Grp\String and text processing\String and text processing\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Files\Softuni\Programming Fundamentals Extended Grp\String and text processing\String and text processing\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+C:\Files\Softuni\Programming Fundamentals Extended Grp\String and text processing\String and text processing\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Files\Softuni\Programming Fundamentals Extended Grp\String and text processing\String and text processing\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

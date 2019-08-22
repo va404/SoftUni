@@ -1,0 +1,6 @@
+E:\Softuni\Programming Fundamentals Extended Grp\List Exercises\List Exercises\5. Note Statistics\bin\Debug\_5.Note_Statistics.exe.config
+E:\Softuni\Programming Fundamentals Extended Grp\List Exercises\List Exercises\5. Note Statistics\bin\Debug\_5.Note_Statistics.exe
+E:\Softuni\Programming Fundamentals Extended Grp\List Exercises\List Exercises\5. Note Statistics\bin\Debug\_5.Note_Statistics.pdb
+E:\Softuni\Programming Fundamentals Extended Grp\List Exercises\List Exercises\5. Note Statistics\obj\Debug\5. Note Statistics.csprojResolveAssemblyReference.cache
+E:\Softuni\Programming Fundamentals Extended Grp\List Exercises\List Exercises\5. Note Statistics\obj\Debug\_5.Note_Statistics.exe
+E:\Softuni\Programming Fundamentals Extended Grp\List Exercises\List Exercises\5. Note Statistics\obj\Debug\_5.Note_Statistics.pdb

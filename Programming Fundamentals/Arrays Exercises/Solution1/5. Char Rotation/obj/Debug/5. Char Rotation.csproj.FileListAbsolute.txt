@@ -1,0 +1,6 @@
+E:\Softuni\Programming Fundamentals Extended Grp\Arrays Exercises\Solution1\5. Char Rotation\bin\Debug\_5.Char_Rotation.exe.config
+E:\Softuni\Programming Fundamentals Extended Grp\Arrays Exercises\Solution1\5. Char Rotation\bin\Debug\_5.Char_Rotation.exe
+E:\Softuni\Programming Fundamentals Extended Grp\Arrays Exercises\Solution1\5. Char Rotation\bin\Debug\_5.Char_Rotation.pdb
+E:\Softuni\Programming Fundamentals Extended Grp\Arrays Exercises\Solution1\5. Char Rotation\obj\Debug\5. Char Rotation.csprojResolveAssemblyReference.cache
+E:\Softuni\Programming Fundamentals Extended Grp\Arrays Exercises\Solution1\5. Char Rotation\obj\Debug\_5.Char_Rotation.exe
+E:\Softuni\Programming Fundamentals Extended Grp\Arrays Exercises\Solution1\5. Char Rotation\obj\Debug\_5.Char_Rotation.pdb
